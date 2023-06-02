@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/static/css/main.3e5c27dd.css",
-    "main.js": "/static/js/main.2cea665a.js",
+    "main.js": "/static/js/main.b79e998e.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/collage.png": "/static/media/collage.cd0db016204202a491cd.png",
     "static/media/ModernAntiqua-Book.ttf": "/static/media/ModernAntiqua-Book.8886a764bcf9d91f2e35.ttf",
     "static/media/stripe-logo.png": "/static/media/stripe-logo.43fcec0f4f66fb00a3eb.png",
     "index.html": "/index.html",
     "main.3e5c27dd.css.map": "/static/css/main.3e5c27dd.css.map",
-    "main.2cea665a.js.map": "/static/js/main.2cea665a.js.map",
+    "main.b79e998e.js.map": "/static/js/main.b79e998e.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3e5c27dd.css",
-    "static/js/main.2cea665a.js"
+    "static/js/main.b79e998e.js"
   ]
 }
