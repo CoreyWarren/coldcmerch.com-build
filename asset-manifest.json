@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.6a5d887b.css",
-    "main.js": "/static/js/main.c73ba475.js",
+    "main.css": "/static/css/main.08abb813.css",
+    "main.js": "/static/js/main.42ef73cc.js",
     "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
     "static/media/collage_vertical.png": "/static/media/collage_vertical.98388a605de1c20dc1c4.png",
     "static/media/collage.png": "/static/media/collage.cd0db016204202a491cd.png",
-    "static/media/lou.png": "/static/media/lou.320a9be4c7d7177ec339.png",
-    "static/media/brian.png": "/static/media/brian.03cc88bd1bc8ea051d65.png",
-    "static/media/elmar.png": "/static/media/elmar.2895d4a0fabd3cb74b61.png",
     "static/media/ModernAntiqua-Book.ttf": "/static/media/ModernAntiqua-Book.8886a764bcf9d91f2e35.ttf",
+    "static/media/spotify_icon.png": "/static/media/spotify_icon.fb4ddfda6a4053914dde.png",
     "static/media/upcoming_show.jpg": "/static/media/upcoming_show.cb780ddb888138dcc200.jpg",
     "static/media/stripe-logo.png": "/static/media/stripe-logo.43fcec0f4f66fb00a3eb.png",
+    "static/media/insta_icon.png": "/static/media/insta_icon.721cd794841ebe1cc1b1.png",
     "index.html": "/index.html",
-    "main.6a5d887b.css.map": "/static/css/main.6a5d887b.css.map",
-    "main.c73ba475.js.map": "/static/js/main.c73ba475.js.map",
+    "main.08abb813.css.map": "/static/css/main.08abb813.css.map",
+    "main.42ef73cc.js.map": "/static/js/main.42ef73cc.js.map",
     "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6a5d887b.css",
-    "static/js/main.c73ba475.js"
+    "static/css/main.08abb813.css",
+    "static/js/main.42ef73cc.js"
   ]
 }
